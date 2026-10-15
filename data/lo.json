@@ -203,17 +203,17 @@
       "id": "B2",
       "group": "ACC",
       "owner": [
-        "VCBU",
-        "VCWU",
-        "VCNU",
-        "VCU",
         "VCB",
         "VCBC",
         "VCW",
         "VCWC",
         "VCN",
         "VC",
-        "VCC"
+        "VCC",
+        "VCBU",
+        "VCWU",
+        "VCNU",
+        "VCU"
       ],
       "sectors": [
         {
@@ -456,7 +456,7 @@
     {
       "id": "N2",
       "group": "ACC",
-      "owner": ["VCNU", "VCEU", "VCU", "VCN", "VCE", "VC", "VCC"],
+      "owner": ["VCN", "VCE", "VC", "VCC", "VCNU", "VCEU", "VCU"],
       "sectors": [
         {
           "min": 315,
@@ -965,7 +965,7 @@
     {
       "id": "E2",
       "group": "ACC",
-      "owner": ["VCEU", "VCNU", "VCU", "VCE", "VCN", "VC", "VCC"],
+      "owner": ["VCE", "VCN", "VC", "VCC", "VCEU", "VCNU", "VCU"],
       "sectors": [
         {
           "min": 315,
@@ -2242,16 +2242,16 @@
       "id": "S2",
       "group": "ACC",
       "owner": [
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU",
         "VCS",
         "VCB",
         "VCBC",
         "VCE",
         "VC",
-        "VCC"
+        "VCC",
+        "VCSU",
+        "VCBU",
+        "VCEU",
+        "VCU"
       ],
       "sectors": [
         {
@@ -2344,16 +2344,16 @@
       "id": "S2",
       "group": "ACC",
       "owner": [
-        "VCSU",
-        "VCBU",
-        "VCEU",
-        "VCU",
         "VCS",
         "VCB",
         "VCBC",
         "VCE",
         "VC",
-        "VCC"
+        "VCC",
+        "VCSU",
+        "VCBU",
+        "VCEU",
+        "VCU"
       ],
       "sectors": [
         {
@@ -3174,17 +3174,17 @@
       "id": "W2",
       "group": "ACC",
       "owner": [
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU",
         "VCW",
         "VCWC",
         "VCS",
         "VCB",
         "VCBC",
         "VC",
-        "VCC"
+        "VCC",
+        "VCWU",
+        "VCSU",
+        "VCBU",
+        "VCU"
       ],
       "sectors": [
         {
@@ -3208,17 +3208,17 @@
       "id": "W2",
       "group": "ACC",
       "owner": [
-        "VCWU",
-        "VCSU",
-        "VCBU",
-        "VCU",
         "VCW",
         "VCWC",
         "VCS",
         "VCB",
         "VCBC",
         "VC",
-        "VCC"
+        "VCC",
+        "VCWU",
+        "VCSU",
+        "VCBU",
+        "VCU"
       ],
       "sectors": [
         {
