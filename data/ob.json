@@ -7,8 +7,8 @@
                 "BBCL",
                 "BBCH",
                 "BB1",
-				"fss/GULFE",
-				"fss/GULF"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -145,7 +145,7 @@
             "group": "CTR",
             "owner": [
                 "BBCH",
-                "BB1"
+                "BB1",
 				"fss/GULFE",
 				"fss/GULF"
             ],
