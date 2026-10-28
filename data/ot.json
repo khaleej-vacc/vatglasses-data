@@ -6,8 +6,8 @@
             "owner": [
                 "DFS",
                 "DFN",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -110,8 +110,8 @@
             "owner": [
                 "DFS",
                 "DFN",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -214,8 +214,8 @@
             "owner": [
                 "DFS",
                 "DFN",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -320,8 +320,8 @@
             "owner": [
                 "DFN",
                 "DFNH",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
@@ -349,8 +349,8 @@
             "owner": [
                 "DFNH",
                 "DFN",
-                "GCE",
-                "GC"
+                "fss/GULFE",
+                "fss/GULF"
             ],
             "sectors": [
                 {
