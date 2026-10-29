@@ -2268,10 +2268,6 @@
         "TWR": {
             "name": "Tower",
             "colour": "#ffffff"
-        },
-        "OTHER": {
-            "name": "Other",
-            "colour": "#888888"
         }
     },
     "positions": {
@@ -2552,7 +2548,7 @@
                 "OTHH"
             ]
         },
-        "DKT": {
+        "BTT": {
             "callsign": "Dukhan Tower",
             "frequency": "118.250",
             "type": "TWR",
